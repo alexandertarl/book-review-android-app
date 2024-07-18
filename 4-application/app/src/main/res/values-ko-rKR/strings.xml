@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Book Reviews</string>
+    <string name="hello_blank_fragment">안녕</string>
+    <string name="New">새</string>
+    <string name="reviews">리뷰</string>
+    <string name="send">보내기</string>
+    <string name="toolbarTitle">책 리뷰</string>
+    <string name="imageSearch">검색</string>
+    <string name="searchTitle">책을 검색하고 TBR 목록에 추가하다</string>
+    <string name="explainSearch">상위 3개의 검색 결과</string>
+    <string name="notifButton">TBR 목록 가져오기</string>
+    <string name="addTbr">TBR 목록에 추가</string>
+    <string name="createTitle">책 리뷰 쓰다</string>
+    <string name="enterName">책 제목</string>
+    <string name="enterAuthor">저자</string>
+    <string name="title">책 제목:</string>
+    <string name="author">저자:</string>
+    <string name="liked">좋하다?</string>
+    <string name="enterDate">날짜</string>
+    <string name="date">날짜:</string>
+    <string name="enterComment">댓글</string>
+    <string name="comment">댓글:</string>
+    <string name="submit">제출</string>
+    <string name="enterLiked">좋하다?</string>
+    <string name="likedTitle">좋아하는 책</string>
+    <string name="readTitle">책 리뷰</string>
+    <string name="listTitle">책 리뷰들:</string>
+    <string name="preview">제목을 클릭하다.</string>
+    <string name="enterScore">점수</string>
+    <string name="rating">점수:</string>
+</resources>
