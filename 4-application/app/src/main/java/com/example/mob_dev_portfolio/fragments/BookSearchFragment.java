@@ -135,7 +135,8 @@ public class BookSearchFragment extends Fragment {
                 searchView.setIconified(true);
 
                 // adds unique key to link so can use api
-                String anotherUrl = "https://www.googleapis.com/books/v1/volumes?q=" + s + "&key=AIzaSyCBOqB-WKV74H1cF66kPk0ADj8f5zzRP5o";
+                // previous api key was deleted
+                String anotherUrl = "secret google api link"
 
                 RequestQueue requestQueue = Volley.newRequestQueue(getActivity());
 
